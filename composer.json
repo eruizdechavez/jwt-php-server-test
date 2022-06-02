@@ -1,0 +1,12 @@
+{
+    "name": "eruizdechave/jwt-php-server-test",
+    "require": {
+        "lcobucci/jwt": "^4.1"
+    },
+    "authors": [
+        {
+            "name": "Erick Ruiz de Chavez",
+            "email": "erick@erch.co"
+        }
+    ]
+}
